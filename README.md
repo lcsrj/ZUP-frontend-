@@ -33,10 +33,6 @@ Node/Express + API REST + banco de dados
 ```
 
 Neste frontend:
-
-- o Supabase foi removido;
-- não existe backend Node dentro deste repositório;
-- não existem Docker, banco, migrations ou controllers aqui;
 - toda comunicação com dados reais passa pela variável `VITE_API_BASE_URL`;
 - login, cadastro, ocorrências, validações e uploads dependem do backend externo rodando.
 
@@ -365,7 +361,6 @@ VITE_API_BASE_URL=https://sua-api-publica.com/api
 
 Exemplos de hospedagem para o frontend:
 
-- Lovable;
 - Vercel;
 - Netlify;
 - Cloudflare Pages;
