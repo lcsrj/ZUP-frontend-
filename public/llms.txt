@@ -1,0 +1,14 @@
+# ZUP — Zeladoria Urbana Participativa
+
+> Plataforma cidadã de Videira/SC para registrar problemas urbanos no mapa, acompanhar a resolução pela gestão pública e visualizar estatísticas de zeladoria com transparência.
+
+A ZUP conecta moradores, Prefeitura de Videira, VISAN (água e saneamento) e CELESC (energia e iluminação). Ocorrências passam por validação comunitária antes de virarem públicas e são roteadas para o órgão responsável.
+
+## Pages
+
+- [Início](/): apresentação do projeto e atalhos para o mapa e cadastro.
+- [Mapa de Ocorrências](/mapa): mapa público com todas as ocorrências de Videira/SC.
+- [Minha Cidade](/minha-cidade): estatísticas públicas de zeladoria urbana — bairros, categorias e tempos de resolução.
+- [Gestão](/gestao): painel institucional com indicadores agregados por órgão.
+- [Criar Conta](/cadastro): cadastro cidadão usando CPF.
+- [Entrar](/login): login cidadão por CPF ou e-mail.
